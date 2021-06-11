@@ -1,1 +1,1 @@
-# Wordpress
+# wordpress-cms

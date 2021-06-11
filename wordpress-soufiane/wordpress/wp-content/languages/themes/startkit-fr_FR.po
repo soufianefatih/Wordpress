@@ -1,0 +1,507 @@
+# Translation of Themes - StartKit in French (France)
+# This file is distributed under the same license as the Themes - StartKit package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-09-16 14:02:51+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Themes - StartKit\n"
+
+#. Description of the theme
+msgid "StartKit is a unique, clean and professional-looking WordPress theme, perfect for all online digital business. A great variety of layouts and styles allows the creation of different structures and satisfies any specific requirement. The frontend and backend features are focused ease of use so that visitors can get the best user experience. View the demo of StartKit Pro https://www.nayrathemes.com/demo/pro/?theme=startkit"
+msgstr "StartKit est un thème WordPress unique, propre et professionnel parfait pour toutes les entreprises numériques dans le monde en ligne. Une grande variété de mises en page et de styles permet de créer différentes structures et satisfait toutes les exigences spécifiques. Les fonctionnalités dans l’interface publique et dans l’administration sont axées sur la facilité d'utilisation pour que les visiteurs obtiennent la meilleure expérience utilisateur. Voir la démo de StartKit Pro https://www.nayrathemes.com/demo/pro/?theme=startkit"
+
+#. Theme Name of the theme
+msgid "StartKit"
+msgstr "StartKit"
+
+#. Template Name of the theme
+msgid "Default homepage"
+msgstr "Page d’accueil par défaut"
+
+#: inc/customize/startkit-breadcrumb.php:39
+msgid "Hide/Show breadcrumbs"
+msgstr "Masquer/Afficher le fil d’Ariane"
+
+#: 404.php:23
+msgid "Ops! Something happened..."
+msgstr "Aie ! Quelque chose s’est passé…"
+
+#: inc/sidebar/sidebar.php:20
+msgid "Primary widget area"
+msgstr "Zone principale de widgets"
+
+#: inc/customize/startkit-premium.php:32
+msgid "Free Vs Pro"
+msgstr "Gratuit Vs Pro"
+
+#: inc/customize/startkit-premium.php:30
+msgid "Get Support"
+msgstr "Obtenir du support"
+
+#: inc/customize/startkit-premium.php:36
+msgid "Show Some Love"
+msgstr "Afficher un peu d’amour"
+
+#: header.php:18
+msgid "Skip to content"
+msgstr "Aller au contenu"
+
+#: inc/customize/startkit-premium.php:12 inc/customize/startkit-premium.php:34
+msgid "Upgrade to Pro"
+msgstr "Passez à la version Pro"
+
+#: inc/customize/startkit-premium.php:28
+msgid "View Documentation"
+msgstr "Voir la documentation"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:422
+msgid "Delete %s"
+msgstr "Supprimer %s"
+
+#: functions.php:68
+msgid "Green"
+msgstr "Vert"
+
+#: functions.php:73
+msgid "Grey"
+msgstr "Gris"
+
+#: functions.php:53
+msgid "Primary"
+msgstr "Principal"
+
+#: functions.php:58
+msgid "Secondary"
+msgstr "Secondaire"
+
+#: functions.php:63
+msgid "Yellow"
+msgstr "Jaune"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:47 inc/template-tags.php:53
+msgid ", "
+msgstr ", "
+
+#: inc/breadcrumb/breadcrumb.php:4 inc/breadcrumb/breadcrumb.php:7
+#: inc/customize/startkit-footer.php:27 inc/customize/startkit-footer.php:80
+#: inc/customize/startkit-breadcrumb.php:30
+#: inc/customize/startkit-header.php:32 inc/customize/startkit-header.php:65
+#: inc/customize/startkit-header.php:153 inc/customize/startkit-blog.php:21
+msgid "1"
+msgstr "1"
+
+#: 404.php:22
+msgid "404"
+msgstr "404"
+
+#: inc/customize/customizer_recommended_plugin.php:17
+msgid "Activate"
+msgstr "Activer"
+
+#: inc/customizer-notify/startkit-customizer-notify.php:111
+msgid "Activating"
+msgstr "Activation"
+
+#: inc/class-wp-bootstrap-navwalker.php:371
+msgid "Add a menu"
+msgstr "Ajouter un menu"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:745
+#: inc/customizer-repeater/class/customizer-repeater-control.php:778
+#: inc/widgets/social-widget.php:45
+msgid "Add Icon"
+msgstr "Ajouter une icône"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:36
+msgid "Add new field"
+msgstr "Ajout de nouveau champ"
+
+#: inc/customize/startkit-footer.php:112
+msgid "Add New Icon"
+msgstr "Ajouter une nouvelle icône"
+
+#: inc/breadcrumb/breadcrumb.php:26
+msgid "Archive by category"
+msgstr "Archive par catégorie"
+
+#: inc/breadcrumb/breadcrumb.php:137
+msgid "Article posted by "
+msgstr "Article publié par"
+
+#: sections/startkit-breadcrumb.php:44
+msgid "Author: %s"
+msgstr "Auteur : %s"
+
+#: inc/customize/startkit-breadcrumb.php:49
+msgid "Background"
+msgstr "Arrière-plan"
+
+#: inc/customize/startkit-breadcrumb.php:66
+msgid "Background Image"
+msgstr "Image d’arrière-plan"
+
+#: inc/customize/startkit-blog.php:9
+msgid "Blog Section"
+msgstr "Section de blog"
+
+#: inc/customize/startkit-header.php:94
+msgid "Button Icon"
+msgstr "Icône du bouton"
+
+#: inc/customize/startkit-header.php:112
+msgid "Button label"
+msgstr "Label Bouton"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:317
+#: inc/customizer-repeater/class/customizer-repeater-control.php:485
+msgid "Button Label"
+msgstr "Libellé du bouton"
+
+#: inc/customize/startkit-header.php:131
+msgid "Button link"
+msgstr "Lien du bouton"
+
+#: inc/customize/startkit-header.php:56
+msgid "Button Setting"
+msgstr "Réglage de bouton"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:332
+#: inc/customizer-repeater/class/customizer-repeater-control.php:499
+msgid "Button Text"
+msgstr "Texte du bouton"
+
+#: template-parts/content-page-grid.php:40 template-parts/content-page.php:15
+#: template-parts/content-search.php:40 sections/startkit-blog.php:77
+msgid "By"
+msgstr "Par "
+
+#: inc/template-tags.php:32
+msgctxt "post author"
+msgid "by %s"
+msgstr "par %s"
+
+#: sections/startkit-breadcrumb.php:32
+msgid "Category Archives: %s"
+msgstr "Archives pour la catégorie %s"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:388
+#: inc/customizer-repeater/class/customizer-repeater-control.php:455
+msgid "Color"
+msgstr "Couleur"
+
+#: comments.php:44 comments.php:65
+msgid "Comment navigation"
+msgstr "Navigation des commentaires"
+
+#: template-parts/content-page-grid.php:39 template-parts/content-search.php:39
+msgid "Comments"
+msgstr "Commentaires"
+
+#: comments.php:82
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: inc/customize/startkit-footer.php:17 inc/customize/startkit-footer.php:58
+msgid "Copyright Content"
+msgstr "Contenu du droit d’auteur"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:41
+msgid "Customizer Repeater"
+msgstr "Personnaliser le répéteur"
+
+#: sections/startkit-breadcrumb.php:20
+msgid "Daily Archives: %s"
+msgstr "Archives quotidiennes : %s"
+
+#: inc/customize/customizer_recommended_plugin.php:18
+msgid "Deactivate"
+msgstr "Désactiver"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:557
+msgid "Delete field"
+msgstr "Supprimer le champ"
+
+#: inc/customize/startkit-blog.php:89
+#: inc/customizer-repeater/class/customizer-repeater-control.php:310
+#: inc/customizer-repeater/class/customizer-repeater-control.php:478
+msgid "Description"
+msgstr "Description"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:406
+#: inc/customizer-repeater/class/customizer-repeater-control.php:546
+msgid "Designation"
+msgstr "Désignation"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:69
+msgid "Edit %s"
+msgstr "Modifier %s"
+
+#: sections/startkit-breadcrumb.php:40
+msgid "Error 404"
+msgstr "Erreur 404"
+
+#: inc/breadcrumb/breadcrumb.php:141
+msgid "Error 404 "
+msgstr "Erreur 404"
+
+#: inc/customize/startkit-header.php:85
+msgid "fa-book"
+msgstr "fa-book"
+
+#: inc/customize/startkit-footer.php:10
+msgid "Footer Section"
+msgstr "Pied de page"
+
+#: inc/sidebar/sidebar.php:48
+msgid "Footer widget  area"
+msgstr "Zone de widgets de pied de page"
+
+#: inc/sidebar/sidebar.php:50
+msgid "Footer widget area"
+msgstr "Zone de widgets de pied de page"
+
+#: inc/customize/startkit-header.php:24
+msgid "Header Search"
+msgstr "Recherche d’en-tête"
+
+#: inc/customize/startkit-header.php:12
+msgid "Header Section"
+msgstr "Section d’en-tête"
+
+#: inc/customize/startkit-footer.php:37 inc/customize/startkit-footer.php:90
+#: inc/customize/startkit-header.php:42 inc/customize/startkit-header.php:75
+#: inc/customize/startkit-header.php:162 inc/customize/startkit-blog.php:31
+msgid "Hide / Show Section"
+msgstr "Masquer/Afficher la section"
+
+#: 404.php:24 inc/breadcrumb/breadcrumb.php:6
+msgid "Home"
+msgstr "Accueil"
+
+#: inc/customizer.php:42
+msgid "Homepage Section"
+msgstr "Section de page d’accueil"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:611
+msgid "http://fontawesome.io/icons/"
+msgstr "http://fontawesome.io/icons/"
+
+#: inc/customize/startkit-footer.php:113
+#: inc/customizer-repeater/class/customizer-repeater-control.php:605
+#: inc/customizer-repeater/class/customizer-repeater-control.php:713
+#: inc/widgets/social-widget.php:57
+msgid "Icon"
+msgstr "Icône"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:646
+#: inc/customizer-repeater/class/customizer-repeater-control.php:714
+msgid "Image"
+msgstr "Image"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:710
+msgid "Image type"
+msgstr "Type d’image"
+
+#: inc/customize/customizer_recommended_plugin.php:16
+msgid "Install and Activate"
+msgstr "Installer et activer"
+
+#: template-parts/content-none.php:25
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Il semblerait que nous ne soyons pas en mesure de trouver votre contenu. Essayez en lançant une recherche."
+
+#. translators: %s: post title
+#: inc/template-tags.php:62
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Laisser un commentaire <span class=\"screen-reader-text\"> sur %s</span>"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:343
+#: inc/customizer-repeater/class/customizer-repeater-control.php:509
+#: inc/customizer-repeater/class/customizer-repeater-control.php:737
+#: inc/customizer-repeater/class/customizer-repeater-control.php:759
+msgid "Link"
+msgstr "Lien"
+
+#: sections/startkit-breadcrumb.php:24
+msgid "Monthly Archives: %s"
+msgstr "Archives mensuelles : %s"
+
+#: comments.php:48 comments.php:69
+msgid "Newer Comments"
+msgstr "Commentaires plus récents"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:715
+msgid "None"
+msgstr "Aucun"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:610
+msgid "Note: Some icons may not be displayed here. You can see the full list of icons at %1$s."
+msgstr "Note : Quelques icônes peuvent ne pas s’afficher ici. Vous pouvez voir la liste complète des icônes sur %1$s"
+
+#: comments.php:47 comments.php:68
+msgid "Older Comments"
+msgstr "Commentaires plus anciens"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:594
+msgid "Open link in new tab:"
+msgstr "Ouvrir le lien dans un nouvel onglet :"
+
+#: inc/breadcrumb/breadcrumb.php:146
+msgid "Page"
+msgstr "Page"
+
+#: inc/customize/startkit-breadcrumb.php:12
+msgid "Page breadcrumbs"
+msgstr "Fil d’Ariane de page"
+
+#. Template Name of the theme
+msgid "Page Fullwidth"
+msgstr "Pleine largeur"
+
+#: template-parts/content.php:38
+msgid "Pages:"
+msgstr "Pages :"
+
+#: inc/customize/startkit-footer.php:71 inc/customize/startkit-footer.php:110
+msgid "Payment Icon"
+msgstr "Icône de paiement"
+
+#: inc/template-tags.php:49
+msgid "Posted in %1$s"
+msgstr "Publié dans  %1$s"
+
+#: inc/template-tags.php:27
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Publié le %s"
+
+#: inc/breadcrumb/breadcrumb.php:131
+msgid "Posts tagged "
+msgstr "Articles étiquetés"
+
+#: functions.php:30
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#. translators: %s: Name of current post.
+#: template-parts/content-page-grid.php:31 template-parts/content.php:33
+#: template-parts/content-page.php:34 template-parts/content-search.php:31
+#: sections/startkit-blog.php:68
+msgid "Read More"
+msgstr "Lire la suite"
+
+#: template-parts/content-none.php:17
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Prêt·e à publier votre premier article ? <a href=\"%1$s\">Lancez-vous ici</a>."
+
+#: inc/customize/customizer_recommended_plugin.php:14
+msgid "Recommended Actions"
+msgstr "Actions recommandées"
+
+#: inc/customize/customizer_recommended_plugin.php:15
+msgid "Recommended Plugin"
+msgstr "Extension recommandée"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:740
+#: inc/customizer-repeater/class/customizer-repeater-control.php:770
+msgid "Remove Icon"
+msgstr "Supprimer l’icône"
+
+#: inc/breadcrumb/breadcrumb.php:32
+msgid "Search results for "
+msgstr "Résultats de recherche pour"
+
+#: inc/customize/startkit-blog.php:109
+msgid "Select number of Posts"
+msgstr "Sélectionnez le nombre de publications"
+
+#: inc/customize/startkit-breadcrumb.php:22
+msgid "Settings"
+msgstr "Réglages"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:398
+#: inc/customizer-repeater/class/customizer-repeater-control.php:537
+msgid "Shortcode"
+msgstr "Code court"
+
+#: inc/sidebar/sidebar.php:18
+msgid "Sidebar Widget Area"
+msgstr "Zone de widget de colonne latérale"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:492
+msgid "skill"
+msgstr "compétence"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:324
+msgid "skills"
+msgstr "compétences"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:723
+msgid "Social icons"
+msgstr "Icônes sociaux"
+
+#: template-parts/content-none.php:21
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Désolé, mais rien ne correspond à vos critères de recherche. Veuillez réessayer avec d’autres mots-clés."
+
+#: inc/customize/startkit-header.php:144
+msgid "Sticky Header"
+msgstr "En-tête fixe"
+
+#: inc/customize/startkit-blog.php:70
+#: inc/customizer-repeater/class/customizer-repeater-control.php:303
+#: inc/customizer-repeater/class/customizer-repeater-control.php:471
+msgid "Subtitle"
+msgstr "Sous-titre"
+
+#: sections/startkit-breadcrumb.php:36
+msgid "Tag Archives: %s"
+msgstr "Archives du mot-clé %s"
+
+#: inc/template-tags.php:55
+msgid "Tagged %1$s"
+msgstr "Identifié %1$s"
+
+#: inc/customize/startkit-blog.php:50
+#: inc/customizer-repeater/class/customizer-repeater-control.php:295
+#: inc/customizer-repeater/class/customizer-repeater-control.php:463
+#: inc/widgets/social-widget.php:32
+msgid "Title"
+msgstr "Titre"
+
+#: sections/startkit-header.php:56
+msgid "type here"
+msgstr "saisissez ici"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:649
+#: inc/customizer-repeater/class/customizer-repeater-control.php:678
+msgid "Upload Image"
+msgstr "Téléverser une image"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:357
+#: inc/customizer-repeater/class/customizer-repeater-control.php:522
+msgid "Video Url"
+msgstr "URL de la vidéo"
+
+#: sections/startkit-breadcrumb.php:28
+msgid "Yearly Archives: %s"
+msgstr "Archives annuelles : %s"
+
+#. Author URI of the theme
+msgid "https://www.nayrathemes.com/"
+msgstr "https://www.nayrathemes.com/"
+
+#. Theme URI of the theme
+msgid "https://www.nayrathemes.com/startkit-free/"
+msgstr "https://www.nayrathemes.com/startkit-free/"
+
+#. Author of the theme
+msgid "Nayra Themes"
+msgstr "Nayra Themes"

@@ -1,0 +1,226 @@
+/*
+Theme Name: Mugu
+
+Adding support for language written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+https://codex.wordpress.org/Right_to_Left_Language_Support
+
+*/
+
+body {
+    direction: rtl;
+    unicode-bidi: embed;
+}
+
+.site-header .site-branding {
+    float: right;
+    margin-right: 0;
+    margin-left: 55px;
+}
+
+.site-header.header-1 .header-top .right-panel,
+.site-header.header-1 .header-top .right-panel .search,
+.site-header.header-1 .header-top .right-panel .search-form input[type="submit"] {
+    float: left;
+}
+
+.site-header.header-1 .header-top .right-panel .social-networks {
+    float: left;
+    margin-left: 0;
+    margin-right: 55px;
+}
+
+.site-header.header-1 .header-top .right-panel .search-form label,
+.site-header.header-1 .header-top .right-panel .search-form input[type="search"],
+.site-header.header-1 .header-top .right-panel .social-networks li {
+    float: right;
+}
+
+.site-header.header-1 .header-top .right-panel .social-networks li {
+    margin-left: 0;
+    margin-right: 4px;
+}
+
+.site-header.header-1 .header-top .right-panel .social-networks li:first-child {
+    margin-right: 0;
+}
+
+.main-navigation ul li,
+.widget.widget_search .search-form label,
+.error404 .error-holder .search-form label,
+.site-header .tool-lists .search .form-holder .search-form label,
+.widget.widget_search .search-form input[type="search"],
+.error404 .error-holder .search-form input[type="search"],
+.site-header .tool-lists .search .form-holder .search-form input[type="search"] {
+    float: right;
+}
+
+.widget.widget_search .search-form input[type="submit"],
+.error404 .error-holder .search-form input[type="submit"],
+.site-header .tool-lists .search .form-holder .search-form input[type="submit"] {
+    float: left;
+}
+
+.site-header .tool-lists .search .form-holder{
+	left: 0;
+	right: auto;
+}
+
+.site-header.header-1 .main-navigation ul li {
+    margin-left: 0;
+    margin-right: 3px;
+}
+
+.site-header.header-1 .main-navigation ul li:first-child {
+    margin-right: 0;
+}
+
+.main-navigation ul li:hover > ul {
+    left: auto;
+    right: 0;
+    display: block;
+}
+
+.main-navigation ul ul li:hover > ul {
+    left: auto;
+    right: 100%;
+    display: block;
+}
+
+.main-navigation ul li {
+    margin-left: 0;
+    margin-right: 47px;
+}
+
+.main-navigation ul li:first-child {
+    margin-right: 0;
+}
+
+.site-header .tool-lists {
+    float: left;
+}
+
+.main-navigation {
+    float: right;
+}
+
+.featured-post.layout-2 .col{
+	float: right;
+}
+
+.featured-post .post,
+.post-section .tabs-menu li,
+.post-section .post,
+.site-footer .footer-t .col{
+	float: right;
+}
+
+.widget.widget_mugu_recent_post ul li .post-thumbnail, .widget.widget_mugu_popular_post ul li .post-thumbnail{
+	float: right;
+	margin-right: 0;
+	margin-left: 20px;
+}
+
+.top-bar .page-header{
+	float: right;
+}
+
+#crumbs{
+	float: left;
+	text-align: left;
+}
+
+#crumbs a{
+	display: inline-block;
+}
+
+.widget.widget_mugu_social_links ul li{
+	float: right;
+}
+
+.widget.widget_tag_cloud .tagcloud a{
+	float: right;
+}
+
+.author .img-holder{
+	float: right;
+	margin-right: 0;
+	margin-left: 20px;
+}
+
+.comment-author,
+.comments-area .comment-body .avatar{
+	float: right;
+}
+
+.comments-area .comment-body .avatar{
+	margin-right: 0;
+	margin-left: 20px;
+}
+
+.comments-area .comment-body .comment-content,
+.comments-area .comment-body .reply{
+	margin-left: 0;
+	margin-right: 97px;
+}
+
+.comments-area .comment-list .children{
+	padding-left: 0;
+	padding-right:77px;
+}
+
+.comments-area .comment-body .fn{
+	margin-right: 0;
+	margin-left: 15px;
+}
+
+.comments-area .comment-body .comment-metadata{
+	float: right;
+}
+
+.comments-area .comment-body .comment-metadata a{
+	display: inline-block;
+}
+
+.post-section .post .entry-meta .posted-on,
+.post-section .post .cat-links a{
+	display: inline-block;
+}
+
+.post-section .post .entry-meta .posted-on{
+	margin-right: 0;
+	margin-left: 6px;
+}
+
+.post-section .post .entry-meta .comments{
+	margin-left: 0;
+	margin-right: 5px;
+}
+
+#primary .post .entry-content blockquote, #primary .page .entry-content blockquote{
+	padding-left: 0;
+	padding-right: 20px;
+	border-left: 0;
+	border-right: 3px solid #717171;
+}
+
+.widget.widget_tag_cloud .tagcloud a{
+	margin-right: 0;
+	margin-left: 10px;
+}
+
+#primary .post .entry-footer .left, #primary .page .entry-footer .left{
+	float: right;
+}
+
+#primary .post .entry-footer .tags a, #primary .page .entry-footer .tags a{
+	float: right;
+	margin-right: 0;
+	margin-left: 10px;
+}
+
+.search .post-section .post, .search .post-section .page{
+	float: right;
+}
