@@ -1,0 +1,78 @@
+2021-06-11T10:58:13+00:00 CRITICAL Uncaught Error: Undefined constant "PLL_ADMIN" in C:\xampp\htdocs\wordpress\wp-content\plugins\lingotek-translation\lingotek.php:587
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(292): Lingotek->init('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-settings.php(560): do_action('init')
+#4 C:\xampp\htdocs\wordpress\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(10): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown dans C:\xampp\htdocs\wordpress\wp-content\plugins\lingotek-translation\lingotek.php à la ligne 587
+
+2021-06-11T10:58:42+00:00 CRITICAL Uncaught Error: Undefined constant "PLL_ADMIN" in C:\xampp\htdocs\wordpress\wp-content\plugins\lingotek-translation\lingotek.php:587
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(292): Lingotek->init('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-settings.php(560): do_action('init')
+#4 C:\xampp\htdocs\wordpress\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(10): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown dans C:\xampp\htdocs\wordpress\wp-content\plugins\lingotek-translation\lingotek.php à la ligne 587
+
+2021-06-11T11:00:11+00:00 CRITICAL Uncaught Error: Undefined constant "PLL_ADMIN" in C:\xampp\htdocs\wordpress\wp-content\plugins\lingotek-translation\lingotek.php:587
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(292): Lingotek->init('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-settings.php(560): do_action('init')
+#4 C:\xampp\htdocs\wordpress\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(10): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown dans C:\xampp\htdocs\wordpress\wp-content\plugins\lingotek-translation\lingotek.php à la ligne 587
+
+2021-06-11T11:00:19+00:00 CRITICAL Uncaught Error: Undefined constant "PLL_ADMIN" in C:\xampp\htdocs\wordpress\wp-content\plugins\lingotek-translation\lingotek.php:587
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(292): Lingotek->init('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-settings.php(560): do_action('init')
+#4 C:\xampp\htdocs\wordpress\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(10): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown dans C:\xampp\htdocs\wordpress\wp-content\plugins\lingotek-translation\lingotek.php à la ligne 587
+
+2021-06-11T11:01:11+00:00 CRITICAL Uncaught Error: Undefined constant "PLL_ADMIN" in C:\xampp\htdocs\wordpress\wp-content\plugins\lingotek-translation\lingotek.php:587
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(292): Lingotek->init('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-settings.php(560): do_action('init')
+#4 C:\xampp\htdocs\wordpress\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(10): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown dans C:\xampp\htdocs\wordpress\wp-content\plugins\lingotek-translation\lingotek.php à la ligne 587
+
+2021-06-11T11:03:12+00:00 CRITICAL Uncaught Error: Undefined constant "PLL_ADMIN" in C:\xampp\htdocs\wordpress\wp-content\plugins\lingotek-translation\lingotek.php:587
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(292): Lingotek->init('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-settings.php(560): do_action('init')
+#4 C:\xampp\htdocs\wordpress\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(10): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown dans C:\xampp\htdocs\wordpress\wp-content\plugins\lingotek-translation\lingotek.php à la ligne 587
+
